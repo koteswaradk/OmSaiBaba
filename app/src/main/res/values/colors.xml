@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colororenge">#FF5722</color>
+    <color name="colorred"> #E64A19</color>
+    <color name="coloryellow">#FFC107</color>
+    <color name="list_item_title">#ffffff</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#B6B6B6</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="common_action_bar_splitter">#B6B6B6</color>
+    <color name="windowBackground">#F9FBE7</color>
+    <color name="colorAccentDark">#727272</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#727272</color>
+    <color name="tabsScrollColor">#2962FF</color>
+</resources>

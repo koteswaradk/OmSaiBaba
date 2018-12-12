@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="admobi_adUid_interstitial_add">ca-app-pub-7949207340789864/8972024638</string>
+    <string name="admobi_adUid_banner_add">ca-app-pub-7949207340789864/7495291433</string>
+    <string name="app_name">Om Sai</string>
+    <string name="action_settings">Settings</string>
+    <string name="omsainathaya"> Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n
+        						Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n
+        						Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n
+        						Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n
+        						Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n
+        						Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n
+        						Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n
+        						Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n
+        						Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n
+        						Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n
+        						Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n
+        						Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n
+        						Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n
+        						Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n
+        						Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n
+        						Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n
+        						Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n
+        						Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n
+        						Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n
+        						Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n
+        						Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n
+        						Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n
+        						Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n
+        						Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n
+        						Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n
+        						Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n
+        						Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n Om Namo Sai Nathaya Namaha\n\n
+        						
+        					</string>
+    <string name="hello_world">   Om Sai Namo Namah |\nShree Sai Namo Namah || \nJai Jai Sai Namo Namah |\nSadguru Sai Namo Namah ||</string>
+    <string name="mantra2"> Sada Nimbarvrikshasya mooladhiwasat |\nSudhasravinam tiktamapi-apriyam tam ||\nTarum Kalpavrikshadhikam sadhayantam |\nNamameeshwaram Sadgurum Sai Natham ||\n</string>
+    <string name="s2"> Sri Satchitanand Sadguru Sainath Maharaj Ki Jai</string>
+    <string name="sabka"> Sab Ka Malik Ek Hai</string>
+    <string name="drawer_open">Select Your Options</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    <string name="sai_bhajana">\t\t Om Sai Namo Namah |\n \t\t Sri Sai Namo Namah ||\n
+Jaya Jaya Sai Namo Namah |\n Sadguru Sai Namo Namah ||</string>
+    <string name="sai_bhajana1">\t\t Om Sai Namo Namah |\n \t\t Sri Sai Namo Namah ||\n
+Jaya Jaya Sai Namo Namah |\n Sadguru Sai Namo Namah ||\n\n
+\t\t Om Sai Namo Namah |\n \t\t Sri Sai Namo Namah ||\n
+Jaya Jaya Sai Namo Namah |\n Sadguru Sai Namo Namah ||\n\n\t\t Om Sai Namo Namah |\n \t\t Sri Sai Namo Namah ||\n
+Jaya Jaya Sai Namo Namah |\n Sadguru Sai Namo Namah ||</string>
+    <string name="livedarshana">In this app we can see the Live Darshahan of Sri Shirdi Sai Baba From Shirdi Sai Baba Temple.\n\nBaba is 
+        every where we have to surrender to him, so we will get the blessings from him.
+        \n\nJust click on the above button we can see the Live Darshana From Shiridi Sai Baba Temple\n\n 
+        Source: Shri Saibaba Sansthan Trust, Shirdi has reserved all rights of live Shirdi SaiBaba Mahasamadhi Darshan.</string>
+    <string name="aboutapp">\n\nThis application is dedicated to devotees of Shri Shirdi Saibaba  and provides a collection of Stories, Wallpapers, Shlokas, Museum photos etc at one 
+place.
+
+\n\nFollowing are salient features:
+
+\n\n1. Babas Aarathi - Gives us the soothness while listening and a great feeling of devotion to Sai Baba while saying the Aarathi.
+
+\n\n2. Quotes and Sayings - Asks people to believe in God but also work hard, be cheerful, help each other, be humble and above all, there is only one God.
+
+\n\n3. Rare Pics - Takes us back in early 20th century where Sai Baba lived and mixed with his devotees.
+
+\n\n4. Sai Baba Satcharite - This gives the in depth understanding of Shiridi Sai Baba.
+
+\n\n5. Assurances -  Baba assures all of us to have faith in him and he will take care of his devotee.
+\n\n6. Other Mantras Of Sai Baba 
+  		\n\n\t\t\t1.Sainatha moola beeja manthrakshary
+        \n\n\t\t\t2.Sainatha Kashta Nivarana Stotram
+        \n\n\t\t\t3.Shirdi Sai Baba Udhi Mantra
+        \n\n\t\t\t4.Shri Sai Kalpavruksha Mantra
+        \n\n\t\t\t5.Shirdi Sai Baba Vibuthi Sloka
+
+
+\n\nNOTE: This app runs on any Android phone with version 2.3 GingerBread and above including Tablets.
+      
+   \n\n  All information for this applications has been collected from various sources in Internet.
+      
+   \n\nApplication opens with Feature called Mantra (Sada Nimbarvrikshasya mooladhiwasat...) now this will not play by default, 
+      
+   \n\nyou Can Play it with using play button.
+      
+   \n\nBaba Mantra and arati now will not overlap you can play whichever you want no problem of overlap . 
+   
+   \n\nPlease let us know your feedback on application and we sill strive to make it better for Sai Baba devotees.</string>
+    <string name="satcharithe">Sai Satcharitra is the holy book which helps devotees like us to learn how Baba lived his simple life before he attained mukthi in 1918.Reading his life 
+
+helps us to learn how he works in moulding our character and life.Its something to be felt by ones own relationship and bond with Baba who alone can 
+
+understand how a true saint can act on him or her.
+All we must do is complete surrender to Sadgurus feet and he will take care of the rest.If you are in pain or sorrows or any worries , read Sai Satcharitra 
+
+for 2 reasons.
+
+\n\nFirstly , for the one who reads this book with total surrender to Shirdi SaiBaba and his thoughts alone, SaiBaba will surely do a miracle . 
+\n\nSecondly, as a Sai devotee , this book helps you to understand his way of moulding his devotees life even by making them wait to attain benefits ,giving them 
+
+pains, hurdles etc so as to face the karma of their past births and finally giving them materialistic benefits and ultimately the path towards God.
+
+\n\n</string>
+    <string name="quotesandsaying">      1.Why fear when I am here?\n\n 
+     2.I am formless and everywhere.\n\n 
+     3.I am in everything and beyond. I fill all space.\n\n 
+     4.All that you see taken together is Myself.\n\n 
+     5.I do not shake or move.\n\n 
+     6.If one devotes his entire time to me and rests in me, he need fear nothing for body and soul.\n\n 
+     7.If one sees me and me alone and listens to my Leelas and is devoted to me alone, he will reach God.\n\n
+     8.My business is to give blessings.\n\n 
+     9.I get angry with none. Will a mother get angry with her children? Will the ocean send back the waters to the several rivers?\n\n 
+     10.I will take you to the end.\n\n 
+     11.Surrender completely to God.\n\n
+     12.If you make me the sole object of your thoughts and aims, you will gain the supreme goal.\n\n
+     13.Trust in the Guru fully. That is the only sadhana.\n\n
+     14.I am the slave of my devotee.\n\n
+     15.Stay by me and keep quiet. I will do the rest.\n\n
+     16.What is our duty? To behave properly. That is enough.\n\n
+     17.My eye is ever on those who love me.\n\n
+     18.Whatever you do, wherever you may be, always bear this in mind: I am always aware of everything you do.\n\n
+     19.I will not allow my devotees to come to harm.\n\n
+     20.If a devotee is about to fall, I stretch out my hands to support him or her.\n\n
+     21.I think of my people day and night. I say their names over and over.
+\n\n22.My treasury is open but no one brings carts to take from it. I say, “Dig!” but no one bothers.
+\n\n23.My people do not come to me of their own accord; it is I who seek and bring them to me.
+\n\n24.All that is seen is my form: ant, fly, prince and pauper.
+\n\n25.However distant my people may be, I draw them to me just as we pull a bird to us with a string tied to its foot.
+\n\n26.I love devotion.
+\n\n27.This body is just my house. My guru has long ago taken me away from it.
+\n\n28.Those who think that Baba is only in Shirdi have totally failed to know me.
+\n\n29.Without my grace, not even a leaf can move.
+\n\n30.I look on all with an equal eye.
+\n\n31.I cannot do anything without God’s permission.
+\n\n32.God has agents everywhere and their powers are vast.
+\n\n33.I have to take care of my children day and night and give an account to God of every paisa.
+\n\n34.The wise are cheerful and content with their lot in life.
+\n\n35.If you are wealthy, be humble. Plants bend when they bear fruit.
+\n\n36.Spend money in charity; be generous and munificent but not extravagant.
+\n\n37.Get on with your worldly activities cheerfully, but do not forget God.
+\n\n38.Do not kick against the pricks of life.
+\n\n39.Whatever creature comes to you, human or otherwise, treat it with consideration.
+\n\n40.Do not be obsessed by the importance of wealth.
+\n\n41.See the divine in the human being.
+\n\n42.Do not bark at people and don’t be aggressive, but put up with others’ complaints.
+\n\n43.There is a wall of separation between oneself and others and between you and me. Destroy this wall!.
+\n\n44.Give food to the hungry, water to the thirsty, and clothes to the naked. Then God will be pleased.
+\n\n45.Saburi (patience) ferries you across to the distant goal.
+\n\n46.The four Sadhanas and the six Shastras are not necessary. Just has complete trust in your guru: it is enough.
+\n\n47.Meditate on me either with form or without form, that is pure bliss.
+\n\n48.God is not so far away. He is not in the heavens above, nor in hell below. He is always near you.
+\n\n49.If anyone gets angry with another, they wound me to the quick.
+\n\n50.If you cannot endure abuse from another, just say a simple word or two, or else leave.
+\n\n51.What do we lose by another’s good fortune? Let us celebrate with them, or strive to emulate them. 
+\n\n52.That should be our desire and determination.
+\n\n53.I stay by the side of whoever repeats my name.
+\n\n54.If formless meditation is difficult, then think of my form just as you see it here. With such meditation, the difference between subject and object is lost and the mind dissolves in unity.
+\n\n55.If anyone offends you do not return tit for tat.
+\n\n56.I am the slave of those who hunger and thirst after me and treat everything else as unimportant.
+\n\n57.Whoever makes me the sole object of their love, merges in me like a river in the ocean.
+\n\n58.Look to me and I will look to you.
+\n\n59.What God gives is never exhausted, what man gives never lasts.
+\n\n60.Be contented and cheerful with what comes.
+\n\n61.My devotees see everything as their Guru.
+\n\n62.Poverty is the highest of riches and a thousand times superior to a king’s wealth.
+\n\n63.Put full faith in God’s providence.
+\n\n64.Whoever withdraws their heart from wife, child, and parents and loves me, is my real lover.
+\n\n65.Distinguish right from wrong and be honest, upright and virtuous.
+\n\n66.Do not be obsessed by egotism, imagining that you are the cause of action: everything is due to God.
+\n\n67.If we see all actions as God’s doing, we will be unattached and free from karmic bondage.
+\n\n68.Other people’s acts will affect just them. It is only your own deeds that will affect you.
+\n\n69.Do not be idle: work, utter God’s name and read the scriptures.
+\n\n70.If you avoid rivalry and dispute, God will protect you.
+\n\n71.People abuse their own friends and family, but it is only after performing many meritorious acts that one gets a human birth. Why then come to Shirdi and slander people?
+\n\n72.Speak the truth and truth alone.
+\n\n73.No one wants to take from me what I give abundantly.
+\n\n74.Do not fight with anyone, nor retaliate, nor slander anyone.
+\n\n75.Harsh words cannot pierce your body. If anybody speaks ill of you, just continue on unperturbed.
+\n\n76.Choose friends who will stick to you till the end, through thick and thin.
+\n\n77.Meditate on what you read and think of God.
+\n\n78.I give my devotees whatever they ask, until they ask for what I want to give.
+\n\n79.You should not stay for even one second at a place where people are speaking disrespectfully of a saint.
+\n\n80.If you do not want to part with what you have, do not lie and claim that you have nothing, but decline politely saying that circumstances or your own desires prevent you.
+\n\n81.Let us be humble.
+\n\n81.Satsang that is associating with the good is good. Dussaya, or associating with evil-minded people, is evil and must be avoided.
+\n\n82.What you sow, you reap. What you give, you get.
+\n\n83.Recognize the existence of the Moral Law as governing results. Then unswervingly follow this Law.
+\n\n84.All gods are one. There is no difference between a Hindu and a Muslim. Mosque and temple are the same.
+\n\n85.Fulfill any promises you have made.
+\n\n86.Death and life are the manifestations of God’s activity. You cannot separate the two. God permeates all.
+\n\n87.Mukti is impossible for those addicted to lust.
+\n\n88.Gain and loss, birth and death are in the hands of God.
+\n\n89.When you see with your inner eye. Then you realize that you are God and not different from Him.
+\n\n90.Avoid unnecessary disputation.
+\n\n91.The giver gives, but really he is sowing the seed for later: the gift of a rich harvest.
+\n\n92.Wealth is really a means to work out dharma. If one uses it merely for personal enjoyment, it is vainly spent.
+\n\n93.To God be the praise. I am only the slave of God.
+\n\n94.God will show His love. He is kind to all.
+\n\n95.Whenever you undertake to do something, do it thoroughly or not at all.
+\n\n96.One’s sin will not cease till one falls at the feet of Sadhus.
+\n\n97.Be ashamed of your hatred. Give up hatred and be quiet.
+\n\n98.The Moral Law is inexorable, so follow it, observe it, and you will reach your goal: God is the perfection of the Moral Law.
+\n\n99.I am your servants’ servant.
+\n\n100.Always think of God and you will see what He does.
+\n\n101.Have faith and patience. Then I will be always with you wherever you are.\n\n</string>
+    <string name="assurance">1.Whosoever puts their feet on Shirdi soil, their sufferings will come to an end. 
+\n\n2.The wretched and miserable will rise to joy and happiness as soon as they climb the steps of the mosque. 
+\n\n3.I shall be ever active and vigorous even after leaving this earthly body. 
+\n\n4.My tomb shall bless and speak to the needs of my devotees. 
+\n\n5.I shall be active and vigorous even from my tomb. 
+\n\n6.My mortal remains will speak from my tomb. 
+\n\n7.I am ever living to help and guide all who come to me, who surrender to me and who seek refuge in me. 
+\n\n8.If you look to me, I look to you. 
+\n\n9.If you cast your burden on me, I shall surely bear it. 
+\n\n10.If you seek my advice and help, it shall be given to you at once. 
+\n\n11.There shall be no want in the house of my devotee
+\n\n</string>
+    <string name="miracles"></string>
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Mantra</item>
+        <item>Aarti</item>
+        <item>Sai Baba Bhajan</item>
+        <item>Sai Baba Chanting</item>
+        <item>Ashtotara Naamavali</item>
+        <item>Kakada Aarti</item>
+        <item>Quotes And Sayings</item>
+        <item>Baba Satcharitra</item>
+        <item>Baba Assurance</item>
+        <item>Baba Other Mantras</item>
+        <item>Baba Miracles</item>
+        <item>Baba WallPapers</item>
+        <item>Baba Rare Pics</item>
+        <item>Baba Museum Collection Pics</item>
+        <item>About App</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+    </array>
+
+    <string-array name="miracle_titles">
+        <item>Lighting Lamps With Water</item>
+        <item>Premonition Of Burning Fields</item>
+        <item>Stopping The Rain</item>
+        <item>Raising The Water Level In Well</item>
+        <item>Saving a Child From Drowning</item>
+        <item>Flow of Godavari(river)From Baba Feet</item>
+        <item>Other Miracles</item>
+        <item>Understanding Sai Baba</item>
+    </string-array>
+    <string-array name="other_mantra_titles">
+        <item>Sainatha moola beeja manthrakshary</item>
+        <item>Sainatha Kashta Nivarana Stotram</item>
+        <item>Shirdi Sai Baba Udhi Mantra</item>
+        <item>Shri Sai Kalpavruksha Mantra</item>
+        <item>Shirdi Sai Baba Vibuthi Sloka</item>
+    </string-array>
+    <string-array name="other_mantra_details">
+        <item>\n\nBenefit (s) : Shirdi Sai Baba blesses all those who chant the Shri Moola Beeja Mantrakshara Stotra with full faith. 
+\n\nIt is believed that all those who chanted this mantra with utter devotion have had their dreams fulfilled and their miseries vanished.
+ 
+\n\nBest Time to Chant : Brahma muhurta, Sandhya kala, Thursdays, Ram Navami, and Guru Poornima
+ 
+\n\nNumber of Times to Chant : At least once a day, 3, 9, 11, 108, or 1008 times
+ 
+\n\n1.Aathisuputhra Sainatha
+\n\n2.Aashritha Rakshaka Sainatha
+\n\n3.Indhu-hivaraksha Sainatha
+\n\n4.Eashithavya Sainatha
+\n\n5.Uddhatha-hrudaya Sainatha
+\n\n6.Urjithanama Sainatha
+\n\n7.Runavimochaka Sainatha
+\n\n8.Rukara Odeaya Sainatha
+\n\n9.Edharu-vinashaka Sainatha
+\n\n10.Eka-dharma Bhodhitha Sainatha
+\n\n11.Aikya-matha Priya Sainatha
+\n\n12.Aum-matha Bhodhitha Sainatha
+\n\n13.Aum-kara Roopa Sainatha
+\n\n14.Ow-dhumbharavasi Sainatha
+\n\n15.Ambhareesha Shri Sainatha
+\n\n16.Amshathru-vinashaka Sainatha
+\n\n17.Karuna-murthy Sainatha
+\n\n18.Khando-bhanija Sainatha
+\n\n19.Ghanitha Pravina Sainatha
+\n\n20.Ghana-shyama Sundara Sainatha
+\n\n21.Gyaana-shamya Shiva Sainatha
+\n\n22.Chaturmukha Brahma Sainatha
+\n\n23.Chandassu-spurthy Sainatha
+\n\n24.Jagatraaya-odhaya Sainatha
+\n\n25.Jaga-maga-prakasha Sainatha
+\n\n26.Gyaana-gamya Shri Sainatha
+\n\n27.Thanka-kadani Sainatha
+\n\n28.Thanka-shayi Sainatha
+\n\n29.Dambha-virodhi Sainatha
+\n\n30.Dakkanadha-priya Sainatha
+\n\n31.Natha-paripalana Sainatha
+\n\n32.Thath-vajnani Sainatha
+\n\n33.Dhaladhalipanani Sainatha
+\n\n34.Dhakshinamurthy Sainatha
+\n\n35.Dharma-rakshaka Sainatha
+\n\n36.Nakshatra-nama Sainatha
+\n\n37.Paran-jyothi Shri Sainatha
+\n\n38.Phakiraa-roopi Sainatha
+\n\n39.Balarama Sahodhara Sainatha
+\n\n40.Bhakthi Pradhayaka Sainatha
+\n\n41.Mashidhuvasi Sainatha
+\n\n42.Yagna-purusha Sainatha
+\n\n43.Rahu-vamshaja Sainatha
+\n\n44.Laksha-nagarajaa Sainatha
+\n\n45.Vana-vihari Sainatha
+\n\n46.Shami-vruksha-priya Sainatha
+\n\n47.Shatkarivija Sainatha
+\n\n48.Sachchidanandha Sainatha
+\n\n49.Hatha-yogi Sainatha
+\n\n50.Shabt-jakshara Sainatha
+\n\n51.Kshamaa-sheela-shri Sainatha
+ 
+\n\nIthi Shri Moola Beeja Mantrakshara Stotra Samaptham</item>
+        <item>        \n\nPrathamam Sainathaya
+
+\n\nDwithiyam Dwarakamayiney
+
+\n\nThritheeyakam Theertharajaya
+
+\n\nChathurthakam Bhaktavatsaley
+
+\n\nPanchamam Paramatmaaya
+
+\n\nShashtamam Shirdivasaya
+
+\n\nSaptamam Sadgurunathaya
+
+\n\nAshtamam Anandathaya
+
+\n\nNavamam Nidaarmbaraaya
+
+\n\nDashamam Dattaavatharithiney
+
+\n\nEthani Dasha namani
+
+\n\nTrisandyam Yaha Patenneraha
+
+\n\nSarva Kashto Bhayanmukto Sainatha Guru Kripa
+
+
+\n\nHope you enjoy reading them. It gives immense bliss.</item>
+        <item>            \n\nMahograha Peedham Mahotpaatha Peedham
+\n\nMahaa-rooga Peedham Mahaa-teevra Peedham
+\n\nHaratyaasuthey Dwarakamayi Bhasma Namasthey
+\n\nGuru Sreshta Sai-Eashwaraaya
+\n\nSreekaram Nithyam Subhakaaram
+\n\nParamam Pavithram Mahaa-papaharam
+\n\nBaba Vibhutim Dharayamyaaham
+\n\nParamam Pavithram Baba Vibhutim
+\n\nParamam Vichithram Leela Vibhutim
+\n\nParamartha Ishtaartha Moksha Pradhaatim
+\n\nBaba Vibhutim Idhamasrayami
+\n\nSai Vibhutim Idhamasrayami
+ 
+ 
+\n\nIt is highly recommended to chant this sloka with udhi (vibuthi / holy ash) in hand and while applying it on ones forehead or while mixing it in water.
+\n\nIt is believed that the udhi will be blessed by Shirdi Sai Baba and will help to cure diseases and makes one happy and healthy.</item>
+        <item>            \n\n\t\t\tAum Sai Shri Sai Jaya Jaya Sai
+ 
+\n\n\t\tGodavari Tata-Shirdi Vaasam
+\n\t\t\tDutta Roopam Daya-nidhim
+\n\t\t\tShri Sadgurum Kalpa-vruksham
+\n\t\t\tSai Natham Namamyaham
+ 
+\n\n\t\tBhakthara Abheeshta Daataram
+\n\t\t\tShri-ramam Pandurangam
+\n\t\t\tShri Sadgurum Kalpa-vruksham
+\n\t\t\tSai Natham Namamyaham
+ 
+\n\n\t\tSadanimba Vruksha-dhivasam
+\n\t\t\tYogakshema Vahamyaham
+\n\t\t\tShri Sadgurum Kalpa-vruksham
+\n\t\t\tSai Natham Namamyaham
+ 
+\n\n\t\tAanjaneyam Sarvantarayamim
+\n\t\t\tSakala Sankashta Nivaranam
+\n\t\t\tShri Sadgurum Kalpa-vruksham
+\n\t\t\tSai Natham Namamyaham
+ 
+\n\n\t\tAnnaroopim Sarva-bandhum
+\n\t\t\tSarvaneka Roopinam
+\n\t\t\tShri Sadgurum Kalpa-vruksham
+\n\t\t\tSai Natham Namamyaham</item>
+        <item>            \n\nParamam Pavithram Baba Vibhuthim
+\n\nParamam Vichitram Leela Vibhuthim
+\n\nParamartha Ishtartha Moksha Pradhanam
+\n\nBaba Vibhuthim Idhamasrayami
+ 
+ 
+\n\nIt is highly recommended to chant this sloka with vibuthi (udhi / holy ash) in hand and while applying it on ones forehead.</item>
+    </string-array>
+    <string-array name="miracle_details">
+        <item>Long before Sai Babas fame spread, he was fond of burning lights in his Masjid and other Temples.
+              But for the oil needed in those little earthenware lights that he lit, he depended on the generosity of the grocers of Shirdi.
+              He had made it a rule to light earthenware lamps in the masjid every evening and he would call on the grocers for small donations.
+              But there came a time when the grocers got tired of giving oil free to Sai Baba and one day they bluntly refused to oblige him,
+              saying they had no fresh stocks. Without a word of protest Sai Baba returned to the masjid. Into those earthenware lamps he poured water and lighted the wicks.
+              The lamps continued to burn deep into the midnight. The matter came to the notice of the grocers who now came to Sai Baba with profuse apologies.
+              Wouldnot Sai Baba kindly pardon them? Sai Baba pardoned them, but he warned them never to lie again. You could have refused to give me the oil, 
+              but did you have to say that you didnot have fresh stocks? he admonished them. But he had made his point.</item>
+        <item>Once, harvesting in Shirdi had been completed and the foodgrains of the entire village had been stored in a yard. 
+                  The summer was on. The heat was intense as only those who have lived in Shirdi know. 
+                  One afternoon Sai Baba summoned Kondaji Sutar and said to him: Go, your field is on fire. 
+                  Frightened, Kondaji ran to his field and frantically looked around for any sign of fire. 
+                  There was none. He returned to the masjid and informed Sai Baba that he had looked everywhere 
+                  but had found no trace of fire and why did Baba have to frighten him? Unfazed, Baba said You 
+                  better turn back and look again. Baba was right after all. Kondaji noticed that a sheaf of corn 
+                  was indeed on fire and smoke was billowing from it. A strong wind was fanning the fire and word 
+                  had gone round to the villagers who now came running to the scene. Sai Baba, the people shouted 
+                  "help us, help us put the fire out!" Thereupon, Sai Baba walked casually towards the yard, 
+                  sprinkled some water on a stack of sheaves and said: " There now! The fire will die down!" 
+                  And so it happened.  </item>
+        <item>                      There is the story of one Rao Bahadur Moreshwar Fradhan who had come to Shirdi to take Sai Babas darshan along with his wife. 
+                      As the couple were about to leave, it began to rain heavily. Thunder and lightning rent the air.
+                       As the Pradhan couple looked round in dismay, Sai Baba prayed.
+                        "Oh Allah!" he intoned, "let the rains cease. My children are going home. 
+                        Let them go peacefully!" The storm thereupon ceased, the downpour reduced to slight drizzle and the Pradhans were able to reach their destination safely. </item>
+        <item>                When Sai Baba first came to Shirdi it had of no basic facilities. There was a well put only in name.
+                 It had no natural spring water and if ever there had been one, it must long ago have dried up. Water had to be fetched from a distance. 
+                 When, therefore, Sai Baba gave his permission to the villagers to celebrate the Ram Navami Fair, 
+                 (Babas Birthday) the big problem facing the organizers was one of water supply. 
+                 So What should they do but go to Sai Baba with their problem? "Oh yes," said Sai Baba, so you want plenty of water, 
+                 do you? Here, take this and drop it in the well and wait and see." "This," turned up to be a platter of flowers on which some prasad (blessed food) had been placed along with the remnants of alms Baba had received earlier in the day.The villagers had no qualms about doing as they were did.
+                 Their faith in Sai Baba was total. No sooner had that platter of leaves been dropped in the well,it is said, water rose from the bottom as if by divine command and completely filled it.And great was the rejoicing of the people.</item>
+        <item>                One report has it that word had spread that the 3-year old daughter of a poor man called Babu Kirwandikar had fallen into the well and had been drowned. 
+                When the villagers rushed to the well they saw the child suspended in mid-air as if some invisible hand was holding her up! She was quickly pulled out. 
+                Sai Baba was fond of that child who was often heard to say : I am Babas sister!" After this incident, the villagers took her at her word. "it is all Babas Leela",the people would say philosophically. They could offer no other explanation. </item>
+        <item>                These were instances of things they had seen with their own eyes. It was not secondhand information they had gathered.
+                 Sai Baba was to them as real as their homes and their fields and their cattle and the distant hills.Das Ganu once had an unforgettable experience. 
+                 On a festive occasion, he sought Babas permission to go to a place called Singba on the banks of the Godavari to have a bath in the holy waters.
+                  "No," Baba replied resolutely, "where is the need to go all the way when the Godavari is here right at my feet?" Das Ganu was vexed. 
+                  He was willing to concede that Ganga the holy river (Baba frequently referred to Godavari as Ganga) rose from the feet of Sri Narayana (one among the Hindu trinity of Gods) himself,
+                   but his faith was not deep enough to believe that the waters of the Godavari could spring form the feet of his master, Sri Sai.
+                   Baba who was reading Das Ganu mind decided that this was the time to strengthen Das Ganu faith. He told his devotee: "come closer to me and hold the hollow of your palms at my feet!".
+                    As soon as he did so water flowed freely out of the toes of the masters feet and filled the hollow of Das Ganu palms in no time. His joy knew no limits. 
+                He sprinkled the water on his head and his body and distributed some more among the assembled devotees as tirtha (holy water).</item>
+        <item>                There was that other occasion when many thought that the masjid which housed Sai Baba itself would be consumed by fire from the flames which leapt up from the dhuni.
+                All that Baba did was to take some swipes at a wooden pillar in front of him. With every blow the flames subsided and the fire died down.
+                "Miraculous," said his devotees. Often they would notice him stirring some hot concotion over the kitchen fire, not with a ladle but with his bare hands.
+                There never was a time when his hand was scalded. What supernatural powers did he have? On yet another occasion,
+                Sai Baba was partaking of food with three of his devotees in the masjid when, without any cause for provocation,
+                he exclaimed- "Stop!" Then, as if nothing had happened, the four continued with their meal.
+                Lunch over and the dishes cleared, they stepped out of the masjid,
+                when large chunks of the ceiling fell on the very spot where they had been seated only a few minutes earlier.
+                Did Sai Babas powers extend even to inanimate matter, the devotees wondered.
+                Instances have been quoted by his devotees as to how Sai Baba commanded the rains to stop and the winds to cease. </item>
+        <item>                Baba always maintained the "Dhuni" or the perpetual fire. 
+                The realisation that all the phenomenons of the nature are perishable and unworthy of our craving, is signified by "Udi" which Sal Baba distributed to all. 
+                Baba never left Shirdi. He talked to people who came to see Him. Sal Baba would often speak in symbols and parables leaving his devotees to work out the answer  such as, 
+                "A man had a beautiful horse, but no matter what he did, it would not run in harness. 
+                An expert suggested that it should be taken back to the place from where it had come. 
+                This was done and it become tracable and useful". The explanation of this story is that the horse is the Ego. As commander of the physical and mental powers of man, 
+                it is useful but self willed and therefore cause endless trouble. Taking it back to its source is re absorbing it in the spirit source which it arises. 
+                It is the return to the source which purifies and enlightens. From there the ego issues forth again, no longer an ego, but a conscious agent of the spirit. 
+                Baba would ask for Dakshina (money offered with respect to the Guru) from some of those who came to see Him. This was not because he needed their money. 
+                This was one of Babas methods for testing out the devotees attachment to worldly things and willingness to surrender his ego. 
+                Once one has surrendered himself totally to Him, Baba takes care of all His spiritual and temporal needs. Baba regarded money like everything else, in a symbolical manner. 
+                He once said, " I ask only from those who the fakir (God) points out and in exchange I give them ten times as much". 
+                By the end of the day, all the money Baba had earned was distributed to the destitute, poor, sick and the needy. 
+                Baba used to feed the fakirs and devotees and even cook for them. 
+                For those who were accustomed to meat, he cooked meat and for the others vegetarian fare. 
+The Dwarakamayee of Sai Baba was open to all, irrespective of caste, creed or religion. 
+Among those who came to see him and got his darshan (establishing spiritual contact with the Guru) and blessings were ministers, government officials, business people and village folk. 
+He was the common mans God. He Stayed with them, he joked with them, He slept and ate with them, he smoked a chillum (pipe) with them, 
+he sang and danced with them, having no pretensions of a God. But all of them knew that He protected them. 
+Even today, though He has left his gross body, they feel his presence and realise his worth all the more. 
+Baba would also refer to the sounding of the drum of the beginning of eternity within the soul. 
+This "anahat" sound emerged from Babas heart from every limb, every bone and pore of his body. 
+It was permeated with divine essence and Baba claimed that though one day his physical body will not exist, 
+his remains will communicate with from the grave. 
+Therefore, the most important place in Shirdi is Babas temple  the Samadhi Mandir is his grave, which literally millions have visited and still continues to draw many more. </item>
+    </string-array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="aarathimanthra">        \n\nArati Sai Baba. Saukhyadatara Jiva. Charanarajatali Dyava dasa visava, bhakta visava
+        \n\nArati Sai Baba....
+\n\nJaluniya ananga. Sasvarupi rahe danga Mumuksa janan davi. Nija dola Sriranga. Dola Sriranga
+\n\nArati Sai Baba....
+\n\nJaya mani jaisa bhava. Tayataisa anubhava Davisi dayaghana, Aisi tuzi he mava, tuzi he mava.
+\n\nArati Sai Baba....
+\n\nTumache nama dhyata. Hare Sansruthivyatha Agadha Tava karani. Marga davisi anatha, davisi anatha.
+\n\nArati Sai Baba....
+\n\nKaliyuga Avatara, Saguna Brahma sachara Avatirna zalase Svami Datta Digambara, Datta Digambara.
+\n\nArati Sai Baba....
+\n\nAthan Divasa Gurvari.Bhakta kariti vari. Prabhupada Pahavaya Bhava Bhayanivari, bhayanivari.
+\n\nArati Sai Baba....
+\n\nMaza nijadravya theva, Thava charana-raja-seva Magane heci aata, Tumhan devadideva, devadideva.
+\n\nArati Sai Baba....
+\n\nIchita Dina chatak Nirmala toya nijasukha Pajaven Madhava Ya Sambhala apuli bhaka, apuli bhaka.
+\n\nArati Sai Baba....</string>
+    <string name="shlokas">
+1. OM sri Sai Nathaaya namaha
+\n\n2. OM Sri Sai Lakshmi naarayanaya namaha
+\n\n3. OM Sri Sai Krishnaraama shivamaruthyaadhi roopaaya namaha
+\n\n4. OM Sri Sai Seshasai ne namaha
+\n\n5. OM Sri Sai Godhavarithata shirdhivasi ne namaha
+\n\n6. OM Sri Sai Bhakta hrudaalayaaya namaha
+\n\n7. OM Sri Sai Sarva hrunnilayaaya namaha
+\n\n8. OM Sri Sai Bhoota vaasaya namaha
+\n\n9. OM Sri Sai Bhootha bhavishyadbhaava varnithaaya namaha
+\n\n10. OM Sri Sai Kaalaa thiithaaya namaha
+\n\n11. OM Sri Sai Kaalaaya namaha
+\n\n12. OM Sri Sai Kaala kaalaaya namaha
+\n\n13. OM Sri Sai Kaaladarpa damanaaya namaha
+\n\n14. OM Sri Sai Mrutyunjayaaya namaha
+\n\n15. OM Sri Sai Amarthyaaya namaha
+\n\n16. OM Sri Sai Marthyaa bhayapradhaaya namaha
+\n\n17. OM Sri Sai Jiivadhaaraaya namaha
+\n\n18. OM Sri Sai Sarvadhaaraaya namaha
+\n\n19. OM Sri Sai Bhaktaavana samarthaaya namaha
+\n\n20. OM Sri Sai Bhaktavana prathikjnaaya namaha
+\n\n21. OM Sri Sai Anna vastra daaya namaha
+\n\n22. OM Sri Sai Aroogya ksheemadaaya namaha
+\n\n23. OM Sri Sai Dhana maangalyapradaaya namaha
+\n\n24. OM Sri Sai Buddhi siddhi pradaaya namaha
+\n\n25. OM Sri Sai Putra mitra kalathra bandhudaaya namaha
+\n\n26. OM Sri Sai Yogaksheema vahaaya namaha
+\n\n27. OM Sri Sai Aapadbhaandhavaaya namaha
+\n\n28. OM Sri Sai Maargabandhavee namaha
+\n\n29. OM Sri Sai Bhukti mukti swargaapavargadaaya namaha
+\n\n30. OM Sri Sai Priyaaya namaha
+\n\n31. OM Sri Sai Preeti vardhanaaya namaha
+\n\n32. OM Sri Sai Antharyaminee namaha
+\n\n33. OM Sri Sai Sacchitatmanee namaha
+\n\n34. OM Sri Sai Nityanandaaya namaha
+\n\n35. OM Sri Sai Parama sukhadaaya namaha
+\n\n36. OM Sri Sai Parameeshwaraaya namaha
+\n\n37. OM Sri Sai Parabrahmanee namaha
+\n\n38. OM Sri Sai Paramaatmanee namaha
+\n\n39. OM Sri Sai Gnaana Swaroopinee namaha
+\n\n40. OM Sri Sai Jagath pithre namaha
+\n\n41. OM Sri Sai Bhaktaanaam maathru daathru pithaamahaaya namaha
+\n\n42. OM Sri Sai Bhaktaabhaya pradhaaya namaha
+\n\n43. OM Sri Sai Bhakta para dheenaya namaha
+\n\n44. OM Sri Sai Bhaktaanugraha kaatraaya namaha
+\n\n45. OM Sri Sai Sharaanagatha vatsalaaya namaha
+\n\n46. OM Sri Sai Bhakti shakti pradaaya namaha
+\n\n47. OM Sri Sai Gnana yraaghya namaha
+\n\n48. OM Sri Sai Preema pradaaya namaha
+\n\n49. OM Sri Sai Samskhaya hrudaya dowurbhalya paapa karma vaasanaa kshayakaraaya namaha
+\n\n50. OM Sri Sai Hrudayagranthi bheedakaaya namaha
+\n\n51. OM Sri Sai Karma dhvamsiinee namaha
+\n\n52. OM Sri Sai Suddasathva sthithaaya namaha
+\n\n53. OM Sri Sai Gunaatheetha gunaathmanee namaha
+\n\n54. OM Sri Sai Anantha kalyaana gunaaya namaha
+\n\n55. OM Sri Sai Amitha parakramaaya namaha
+\n\n56. OM Sri Sai Jayinee namaha
+\n\n57. OM Sri Sai Durdhaarshaa kshobyaaya namaha
+\n\n58. OM Sri Sai Aparaajitaya namaha
+\n\n59. OM Sri Sai Trilookeeshu avighaatha gatayee namaha
+\n\n60. OM Sri Sai Ashakya rahitaaya namaha
+\n\n61. OM Sri Sai Sarva shakti murthayee namaha
+\n\n62. OM Sri Sai Svaroopa sundaraaya namaha
+\n\n63. OM Sri Sai Suloochanaaya namaha
+\n\n64. OM Sri Sai Bahuroopa vishwamuurthayee namaha
+\n\n65. OM Sri Sai Aroopaavyaktaaya namaha
+\n\n66. OM Sri Sai Aachintyaaya namaha
+\n\n67. OM Sri Sai Sookshmaaya namaha
+\n\n68. OM Sri Sai Sarvaantharyaminee namaha
+\n\n69. OM Sri Sai Manoovaaga theethaya namaha
+\n\n70. OM Sri Sai Preemamoorthayee namaha
+\n\n71. OM Sri Sai Sulabha durlabhaaya namaha
+\n\n72. OM Sri Sai Asahaaya sahaayaaya namaha
+\n\n73. OM Sri Sai Anaatha naatha deenabaandhavee namaha
+\n\n74. OM Sri Sai Sarvabhaara bhrutee namaha
+\n\n75. OM Sri Sai Akarmaaneeka karma sukarminee namaha
+\n\n76. OM Sri Sai Punyasravana keerthanaaya namaha
+\n\n77. OM Sri Sai Theerthaaya namaha
+\n\n78. OM Sri Sai Vasudeevaaya namaha
+\n\n79. OM Sri Sai Sataamgathayee namaha
+\n\n80. OM Sri Sai Satyanaaraayanaaya namaha
+\n\n81. OM Sri Sai Lokanaathaaya namaha
+\n\n82. OM Sri Sai Paavananaaghaaya namaha
+\n\n83. OM Sri Sai Amruthamsavee namaha
+\n\n84. OM Sri Sai Bhaaskara Prabhaaya namaha
+\n\n85. OM Sri Sai Bramhacharya tapascharyaadi suvrathaaya namaha
+\n\n86. OM Sri Sai Satyadharma paraayanaaya namaha
+\n\n87. OM Sri Sai Siddheshvaraaya namaha
+\n\n88. OM Sri Sai Siddha sankalpaaya namaha
+\n\n89. OM Sri Sai Yogeshwaraaya namaha
+\n\n90. OM Sri Sai Bhagwatee namaha
+\n\n91. OM Sri Sai Bhakta vatsalaaya namaha
+\n\n92. OM Sri Sai Sathpurushaaya namaha
+\n\n93. OM Sri Sai Purushootthamaaya namaha
+\n\n94. OM Sri Sai Satyatatva boodhakaaya namaha
+\n\n95. OM Sri Sai Kaamaadi shadyri dwamsinee namaha
+\n\n96. OM Sri Sai Abheedaanandaama bhava pradhaaya namaha
+\n\n97. OM Sri Sai Samasarvamatha sammataaya namaha
+\n\n98. OM Sri Sai Sri Dakshinaa moorthiyee namaha
+\n\n99. OM Sri Sai Sri Venkateesha ramanaaya namaha
+\n\n100. OM Sri Sai Adbhuthaanantha charyaaya namaha
+\n\n101. OM Sri Sai Prapannarthi haraaya namaha
+\n\n102. OM Sri Sai Samsaara sarva dukha kshayakaraaya namaha
+\n\n103. OM Sri Sai Sarva vitsarvato mukhaaya namaha
+\n\n104. OM Sri Sai Sarvaantharbhahi stitaaya namaha
+\n\n105. OM Sri Sai Sarvamangala karaaya namaha
+\n\n106. OM Sri Sai Sarvaabhiishta pradhaaya namaha
+\n\n107. OM Sri Sai Samaras sanmaarga sthaapanaaya namaha
+\n\n108. OM Sri Sai samartha sadguru Sri Sai nathaaya namaha</string>
+    <string name="title_activity_sai_baba_main">SaiBabaMainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+</resources>

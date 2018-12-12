@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/admobi_adUid_banner_add" />
+    <ImageView android:id="@+id/image_main"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_below="@id/txtLabel"
+        android:src="@drawable/saibaba"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/txtLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        	android:layout_below="@+id/adView"
+        android:paddingTop="10dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:text="Sachidanada Sadguru Sainath Maharaj Ki Jai"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:textColor="#ff0000" />
+     <TextView
+        android:id="@+id/txtLabel2"
+        android:layout_below="@id/image_main"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="21dp"
+        android:text="Miracles of Sri Shiridi Sai Baba"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:textColor="#ff0000" />
+     <ScrollView  android:layout_below="@id/txtLabel2"
+         android:layout_width="wrap_content"
+        		  android:layout_height="wrap_content">
+     <TextView
+        
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:padding="10dp"
+        android:layout_centerHorizontal="true"
+        
+        android:text="@string/assurance"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:textColor="#000000" />
+     </ScrollView>
+
+</RelativeLayout>
+
+

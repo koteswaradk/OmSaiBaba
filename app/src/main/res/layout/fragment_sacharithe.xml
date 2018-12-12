@@ -1,0 +1,103 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/admobi_adUid_banner_add" />
+    <RelativeLayout 
+        android:id="@+id/l1"
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    		android:layout_below="@+id/adView"
+        android:paddingTop="10dp">
+    	
+    	<TextView 
+    	    android:text="Shraddha"
+    	    android:textSize="18sp"
+    	    android:textColor="#FF0000"
+    	    android:layout_alignParentLeft="true"
+    	    android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"/>
+    	<TextView 
+    	    android:text="Saburi"
+    	    android:textSize="18sp"
+    	    android:textColor="#FF0000"
+    	    android:layout_alignParentRight="true"
+    	    android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"/>
+        
+    </RelativeLayout>
+<RelativeLayout 
+    	android:id="@+id/l2"
+    	android:layout_below="@id/l1"
+    	android:padding="5dp"
+    	android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content">
+     <ImageView  android:id="@+id/mainpic"
+        		android:layout_width="200dp"
+    			android:layout_height="200dp"
+    			android:background="@drawable/main"/>
+ </RelativeLayout>
+<RelativeLayout android:layout_width="wrap_content"
+    			android:layout_height="wrap_content"
+    			android:id="@+id/l3"
+    			android:layout_below="@id/l2">
+    
+</RelativeLayout>
+  <RelativeLayout 
+     	android:id="@+id/l4"
+    	android:layout_below="@id/l3"
+    	android:paddingTop="25dp"
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content">
+
+    </RelativeLayout> 
+
+<TextView
+   android:id="@+id/t3"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/l2"
+    android:layout_centerInParent="true"
+    android:text="@string/sabka"
+    android:paddingTop="10dp"
+    android:textStyle="bold"
+    android:textColor="#000000"
+    android:textSize="22sp" />
+<Button 
+    android:id="@+id/b_sacharithe"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/t3"
+     android:paddingTop="10dp"
+     
+      android:text="Read Sai BaBa Satcharitra"
+    android:layout_centerInParent="true"/>
+<ScrollView 
+     android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+     android:layout_centerInParent="true"
+     android:layout_below="@+id/b_sacharithe"
+    >
+<TextView  
+    android:padding="10dp"
+   
+      android:layout_width="wrap_content"
+      android:textSize="18sp"
+    android:layout_height="wrap_content"
+    android:text="@string/satcharithe"
+    />
+</ScrollView>
+
+</RelativeLayout>

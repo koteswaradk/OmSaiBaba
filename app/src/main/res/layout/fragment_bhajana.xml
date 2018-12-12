@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    
+   <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/admobi_adUid_banner_add" />
+
+    <TextView
+        android:id="@+id/txtLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        	android:layout_below="@+id/adView"
+        android:paddingTop="10dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:text="Sachitanada Sadguru Sainath Maharaj Ki Jai"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:textColor="#ff0000" />
+     
+    
+ <ImageView android:id="@+id/image_main"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:keepScreenOn="true"
+        android:layout_below="@id/txtLabel"
+        android:src="@drawable/saibaba"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"/>
+ <TextView
+        android:id="@+id/txtLabel2"
+        android:layout_below="@id/image_main"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="21dp"
+        android:text="Sai Baba Bhajana"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:textColor="#ff0000" />
+ 
+     <RelativeLayout
+        android:id="@+id/relative_radiobutton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtLabel2"
+        >
+
+        <RadioGroup
+            android:id="@+id/radioGroup1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/button_11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/rbtn_selector"
+                android:button="@null"
+                android:checked="false"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="11 Times"
+                android:textColor="@drawable/rbtn_textcolor_selector" />
+
+            <RadioButton
+                android:id="@+id/button_21"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/rbtn_selector"
+                android:button="@null"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="21 Times"
+                android:textColor="@drawable/rbtn_textcolor_selector" />
+
+            <RadioButton
+                android:id="@+id/button_51"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/rbtn_selector"
+                android:button="@null"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="51 Times"
+                android:textColor="@drawable/rbtn_textcolor_selector" />
+            <RadioButton
+                android:id="@+id/button_108"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/rbtn_selector"
+                android:button="@null"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="108 Times"
+                android:textColor="@drawable/rbtn_textcolor_selector" />
+        </RadioGroup>
+    </RelativeLayout>
+    
+    
+<ToggleButton
+        android:id="@+id/toggle_Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/togglecheck"
+        android:layout_centerHorizontal="true"
+        android:textOn=""
+          android:textOff=""
+        android:layout_above="@+id/stop"
+        />
+
+    <ImageButton
+        android:id="@+id/stop"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="24dp"
+        android:background="@drawable/stopselector"
+        android:visibility="invisible" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+       
+        android:padding="10dp"
+        android:text="@string/sai_bhajana"
+        android:textSize="18sp" />
+
+</RelativeLayout>

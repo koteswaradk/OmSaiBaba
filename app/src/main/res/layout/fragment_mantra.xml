@@ -1,0 +1,121 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+   
+    tools:context=".MainActivity" >
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/admobi_adUid_banner_add" />
+    <RelativeLayout 
+        android:id="@+id/l1"
+       	android:layout_below="@+id/adView"
+        android:paddingTop="10dp"
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content">
+    	
+    	<TextView 
+    	    
+    	    android:text="Shraddha"
+    	    android:textSize="18sp"
+    	    android:textColor="#FF0000"
+    	    android:layout_alignParentLeft="true"
+    	    android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"/>
+    	<TextView 
+    	    android:text="Saburi"
+    	    android:textSize="18sp"
+    	    android:textColor="#FF0000"
+    	    android:layout_alignParentRight="true"
+    	    android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"/>
+        
+    </RelativeLayout>
+<RelativeLayout 
+    	android:id="@+id/l2"
+    	android:layout_below="@id/l1"
+    	android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content">
+     <ImageView  android:id="@+id/mainpic"
+          android:keepScreenOn="true"
+        		android:layout_width="250dp"
+    			android:layout_height="250dp"
+    			android:background="@drawable/main"/>
+ </RelativeLayout>
+<RelativeLayout android:layout_width="wrap_content"
+    			android:layout_height="wrap_content"
+    			android:id="@+id/l3"
+    			android:layout_below="@id/l2">
+    
+</RelativeLayout>
+<ScrollView android:layout_below="@id/l3"
+    	android:paddingTop="10dp"
+    	android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content">
+  <RelativeLayout 
+     	android:id="@+id/l4"
+    	android:layout_below="@id/l3"
+    	android:paddingTop="5dp"
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content">
+     <TextView
+        android:id="@+id/text_mantra"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       android:layout_centerHorizontal="true"
+        
+        android:text="@string/hello_world"
+        android:textSize="18dp" />
+     <TextView android:id="@+id/sadanimbamantra"
+         android:layout_below="@id/text_mantra"  
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:layout_marginTop="5dp"
+         android:textSize="14dp"
+         android:text="@string/mantra2"
+         />
+    <TextView  
+        android:layout_below="@id/sadanimbamantra"
+        android:textSize="13dp"
+ 		android:textStyle="bold"
+  	    
+  	   
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/s2"/>
+
+    
+
+    </RelativeLayout> 
+</ScrollView>
+<TextView
+   
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/l2"
+    android:layout_centerInParent="true"
+    android:text="@string/sabka"
+    android:paddingTop="10dp"
+    android:visibility="gone"
+    android:textStyle="bold"
+    android:textColor="#000000"
+    android:textSize="22sp" />
+<ImageButton
+android:id="@+id/play"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_alignParentBottom="true"
+android:layout_centerHorizontal="true"
+android:background="@anim/subplaydraw"
+/>
+
+</RelativeLayout>
+
